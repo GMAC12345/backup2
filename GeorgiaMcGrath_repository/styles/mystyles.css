@@ -1,0 +1,59 @@
+.YTvid{ 
+   text-align:center;
+}
+
+.centerimage{
+    text-align:right;
+}
+
+footer{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color:darkolivegreen
+}
+
+.olive{
+  color: coral;
+}
+
+caption{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.button{
+  border: none;
+  color: rgb(153, 194, 164);
+  padding: 15px 32px;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button1{background-color: #4CAF50;} /* Green */
+.button2{background-color: #008CBA;} /* Blue */
+
+
+.centering_text{
+  text-align: center;
+}
+
+
+.index_text {
+  font-size: 16px
+}
+
+.boldest{
+  font-weight: bold;
+}
+
+.CI {
+  display: block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
